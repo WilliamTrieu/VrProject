@@ -1,0 +1,13 @@
+Mini Spolf
+Created by: William Trieu 500624858
+
+Requirements:
+- HTC Vive VR Equipment set up
+- Only one controller is necessary but both can we connected
+
+To run code, there are two options:
+1. Launch Unity 2017.3.0f3 (64-bit) and select the Final Project folder, when opened and all equipment are connected, run the project using the play    button on top of the screen.
+2. Run "Mini Spolf Final Build.exe" from CPS841-Final-Project\Final Project\Builds
+
+Controls:
+ - No buttons needed to be pressed, just using the controller like a club, movement is handled automatically
